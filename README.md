@@ -1,6 +1,6 @@
 # rAIner: Sistema Cognitivo de Produtividade Orquestrado por IA
 
-![rAIner Banner](assets/thumbnail-rainer.jpg)
+![rAIner Banner](assets/thumbnail-rainer.jpeg)
 
 > Arquitetura de Segundo Cérebro baseada no método P.A.R.A., integrando o ecossistema Google Workspace e agentes de Inteligência Artificial para eliminar sobrecarga mental operacional.
 
